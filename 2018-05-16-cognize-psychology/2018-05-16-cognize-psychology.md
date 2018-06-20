@@ -6,22 +6,22 @@ history: true
 ---
 
 # 來點記憶吧
-<div>輔仁大學心理營</div>
-<small>Chiu　2018.0426</small>
+<div>輔大心理營工作坊</div>
+<small>Chiu　2018.0717</small>
 
 ---
 
 # 我是誰
 
 - 邱繼緯，小麥 <!-- .element: class="fragment  " -->
-- 輔仁大學認知與工商心理所 <!-- .element: class="fragment  " -->
+- 輔仁大學心理所認知組 <!-- .element: class="fragment  " -->
 - 正在學寫網頁寫程式 <!-- .element: class="fragment  " -->
 
 ---
 
 <!-- 開場白 -->
 
-# 記憶是什麼，可以吃嗎
+# 記憶是啥,可以吃嗎
 
 - 日常生活中的記憶 
 - 升高二，認識同學 <!-- .element: class="fragment  " -->
@@ -199,7 +199,21 @@ BUT <!-- .element: class="fragment  " -->
 
 ---
 
-# 跟記憶有關的腦
+# 跟記憶有關的生理
+
+--
+
+## 記憶是怎麼形成的?
+
+* 神經元的連結 <!-- .element: class="fragment  " -->
+* <!-- .element: class="fragment  " -->[Neurotic Neurons ](http://ncase.me/neurons/)  by Nicky Case
+
+--
+
+## 記憶被放在哪裡
+
+* 目前認為分散在腦中 <!-- .element: class="fragment  " -->
+* <!-- .element: class="fragment  " -->[ZygoteBody](https://www.zygotebody.com/) 
 
 ---
 
