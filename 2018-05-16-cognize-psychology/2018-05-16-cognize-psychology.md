@@ -1,5 +1,5 @@
 ---
-theme: black
+theme: sky
 progress: true
 slideNumber: true
 history: true
