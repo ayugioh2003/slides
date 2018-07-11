@@ -201,6 +201,10 @@ note:
 
 --
 
+現在認為的記憶儲存形式？
+
+--
+
 ## 三段記憶儲存模型
 
 * 由A跟S先生提出 <small>(Atkinson & Shiffrin, 1971)</small>
@@ -694,7 +698,7 @@ p222
 我的聯絡方式
 
 * [臉書 - 邱繼緯](https://www.facebook.com/profile.php?id=100000332370903)
-* 投影片網址
+* [投影片網址](https://ayugioh2003.github.io/slides/2018-05-16-cognize-psychology/memory-export)
 * 問卷連結
 
 --
