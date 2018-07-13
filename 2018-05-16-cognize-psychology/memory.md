@@ -24,7 +24,7 @@ https://unsplash.com/photos/rmWtVQN5RzU
 
 --
 
-## 我是誰
+### 我是誰
 
 - 邱繼緯，小麥 <!-- .element: class="fragment  " -->
 - 輔仁大學心理所認知組畢 <!-- .element: class="fragment  " -->
@@ -44,7 +44,7 @@ note:
 
 --
 
-## 工作坊後希望能讓你們認識
+### 工作坊後希望能讓你們認識
 
 1. 記憶的儲存模型假說
 2. 記憶的歷程
@@ -52,7 +52,7 @@ note:
 
 --
 
-## 並且能夠瞭解
+### 並且能夠瞭解
 
 - 鞏固記憶的策略
 - 簡單的記憶術
@@ -139,7 +139,7 @@ https://unsplash.com/photos/wn-KYaHwcis
 
 --
 
-## 小測試-1
+### 小測試-1
 
 * 回想剛剛看到了什麼
 * 填寫在空白紙上
@@ -154,9 +154,9 @@ https://unsplash.com/photos/wn-KYaHwcis
 
 --
 
-## 測量、喚起記憶的方式
-- 有線索：自由回憶 (recall)<!-- .element: class="fragment  " -->
-- 沒線索：再認 (recognize)<!-- .element: class="fragment  " -->
+### 測量、喚起記憶的方式
+- 沒線索：自由回憶 (recall)<!-- .element: class="fragment  " -->
+- 有線索：再認 (recognize)<!-- .element: class="fragment  " -->
 
 --
 
@@ -241,7 +241,7 @@ p205
 
 --
 
-## 小測試-2
+### 小測試-2
 
 H B S T <br>
 A H M G <br>
@@ -260,7 +260,7 @@ note:
 
 --
 
-## 小測試-3
+### 小測試-3
 
 * 101001000100001000100<!-- .element: class="fragment  " --> 
 * 有意義的組塊(Miller, 1956)<!-- .element: class="fragment  " --> 
@@ -292,7 +292,7 @@ note:
 
 --
 
-## 小測試-4
+### 小測試-4
 
 * 回想自己所能想到的最早的事情是什麼
 
@@ -420,7 +420,7 @@ note:
 
 ---
 
-## 2-2-2 訊息組織: 記憶術
+### 2-2-2 訊息組織: 記憶術
 
 * 分類
 * 購物清單：飲食類、生活類 ...<!-- .element: class="fragment " --> 
@@ -565,7 +565,7 @@ note:
 
 ---
 
-## 序列位置效應
+### 序列位置效應
 
 --
 
@@ -616,14 +616,14 @@ https://unsplash.com/photos/rmWtVQN5RzU
 
 --
 
-## 記憶是怎麼形成的?
+### 記憶是怎麼形成的?
 
 * 神經元的連結 <!-- .element: class="fragment  " -->
 * <!-- .element: class="fragment  " -->[Neurotic Neurons ](http://ncase.me/neurons/)  by Nicky Case
 
 --
 
-## 記憶被放在哪裡
+### 記憶被放在哪裡
 
 * 目前認為分散在腦中 <!-- .element: class="fragment  " -->
 * <!-- .element: class="fragment  " -->[ZygoteBody](https://www.zygotebody.com/) 
