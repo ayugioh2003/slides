@@ -707,3 +707,6 @@ p222
 
 * 認知心理學 by Robert J.Sternberg
 * [記憶 · 超普通心理學](https://spiketren.gitbooks.io/psy101/ch7/intro.html) by 台大心理
+
+note:
+* [最強大腦 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91)
