@@ -13,7 +13,7 @@
 * 簡報 [來點記憶吧](https://ayugioh2003.github.io/slides/2018-05-16-cognize-psychology/memory-export)
 * 簡版講義 [來點記憶吧](https://github.com/ayugioh2003/slides/blob/master/2018-05-16-cognize-psychology/HandoutSimple.pdf)
 * 講義(正在完善中) [來點記憶吧](https://github.com/ayugioh2003/slides/blob/master/2018-05-16-cognize-psychology/Handout.pdf)
-* 互動時的小測試 [小測試問題卷](https://github.com/ayugioh2003/slides/blob/master/2018-05-16-cognize-psychology/test.md)
+* 互動時的小測試 [小測試問題卷](./test.pdf)
 
 
 聯絡方式與資料
