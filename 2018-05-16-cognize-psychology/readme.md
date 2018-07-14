@@ -4,9 +4,19 @@
 
 
 
-## 資料連結
+## 資料連結與聯絡方式
+
+資料
 
 * 簡報 [來點記憶吧](https://ayugioh2003.github.io/slides/2018-05-16-cognize-psychology/memory-export)
+* 簡版講義 [來點記憶吧](https://github.com/ayugioh2003/slides/blob/master/2018-05-16-cognize-psychology/HandoutSimple.pdf)
 * 講義 [來點記憶吧](https://github.com/ayugioh2003/slides/blob/master/2018-05-16-cognize-psychology/Handout.pdf)
 * 互動時的小測試 [小測試問題卷](https://github.com/ayugioh2003/slides/blob/master/2018-05-16-cognize-psychology/test.md)
 
+
+聯絡方式與資料
+
+- 我的臉書：https://www.facebook.com/profile.php?id=100000332370903 
+- 投影片與講義連結：https://git.io/fNmR2
+- 我剛開的粉專：https://www.facebook.com/wheatpsy
+- 問卷回饋：https://docs.google.com/forms/d/e/1FAIpQLSdcSevI4oImbl7_Z8Nbrb8U-Yi64GFlWGebeOWTiKrlGMTT4Q/viewform
