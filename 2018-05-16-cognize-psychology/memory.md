@@ -237,8 +237,9 @@ p205
 
 ### 小測試-2
 
-* 很快地出現三行字，上中下
-* 很快地出現音高，高中低音<!-- .element: class="fragment  " --> 
+* 很快地出現三行字，有上中下，然後消失
+* 很快地出現音高，可能是高中低音，然後消失<!-- .element: class="fragment  " -->
+* 流程：三行字->聲音->作答<!-- .element: class="fragment  " -->  
 * 寫出對應音高順序的那行文字<!-- .element: class="fragment  " --> 
 * 同時盡量記得其他行文字<!-- .element: class="fragment  " --> 
 
@@ -247,7 +248,7 @@ p205
 
 --
 <!-- .slide: data-transition="none">-->
-<!-- .slide: data-background="https://i.imgur.com/p11NfsT.png"  -->
+<!-- .slide: data-background="https://i.imgur.com/AeUWavC.png"  -->
 
 note:
 H B S T <br>
