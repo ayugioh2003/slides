@@ -423,6 +423,7 @@ note:
 * 最佳的複誦新訊息的時間安排為何？<!-- .element: class="fragment " --> 
 * 分散練習 vs 密集練習 (Ebbinghaus, 1885)<!-- .element: class="fragment " --> 
 * 白話：定時複習 vs 臨時抱佛腳<!-- .element: class="fragment " --> 
+* 結果：分散練習效果好<!-- .element: class="fragment " --> 
 
 --
 
@@ -555,7 +556,7 @@ note:
 
 
 
-衛教時間 
+Bonus 衛教時間 
 
 * [不要太相信右腦學習法](https://pansci.asia/archives/89961)
 * [建議不用特別花大錢去上記憶課](https://www.ptt.cc/bbs/study/M.1250860571.A.887.html)
@@ -620,24 +621,12 @@ note:
 
 花
 
---
+note:
 
 手錶
-
---
-
 球棒
-
---
-
 毛毯
-
---
-
 肥皂
-
---
-
 枕頭
 
 --
@@ -651,6 +640,9 @@ note:
 
 * 桌子、雲、書、樹、襯衫
 * 貓、光、長凳、粉筆、花
+
+note:
+
 * 手錶、球棒、毛毯、肥皂、枕頭
 
 --
@@ -659,8 +651,8 @@ note:
 
 * 關注點不是個人的答對題數
 * 桌子<!-- .element: class="fragment"  -->
-* 長凳<!-- .element: class="fragment"  -->
-* 枕頭<!-- .element: class="fragment"  -->
+* 襯衫<!-- .element: class="fragment"  -->
+* 花<!-- .element: class="fragment"  -->
 
 ---
 
