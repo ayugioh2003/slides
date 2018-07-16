@@ -231,8 +231,8 @@ note:
 ## 1-1 感覺儲存 
 
 * ex：一眨眼的時間，要記得剛剛的東西
-* 時間：過 0.3 秒，忘一半字母 <small>(Sperling, 1960)</small>
-* 容量：可能 12 個字母 <small>(Averbach & Coriell, 1961)</small>
+* 時間：過 0.3 秒，忘一半字母 (Sperling, 1960)<!-- .element: class="fragment  fade-out" data-fragment-index="1" --> 
+* 容量：可能 12 個字母 (Averbach & Coriell, 1961)<!-- .element: class="fragment  fade-out" data-fragment-index="1" --> 
 
 note:
 * 以影像儲存庫 (iconic store) 為例
@@ -256,7 +256,7 @@ note:
 
 * ex：偷記電話號碼、LINE ID
 * 時間：數分鐘
-* 容量：7 ± 2 個字 <small>(Miller, 1956)</small>
+* 容量：7 ± 2 個字 (Miller, 1956)<!-- .element: class="fragment  fade-out" data-fragment-index="1" --> 
 
 --
 
@@ -274,8 +274,8 @@ note:
 ## 1-3 長期儲存
 
 * ex：背到忘不了的元素週期表、小時候的事情
-* 時間：至少 25 年以上 <small>(Bahrick, 1975)</small>
-* 容量：還不清楚。可能無限 <small>(Bahrick, 1984; Penifield, 1955)</small>
+* 時間：至少 25 年以上 (Bahrick, 1975)<!-- .element: class="fragment  fade-out" data-fragment-index="1" --> 
+* 容量：還不清楚。可能無限 (Bahrick, 1984; Penifield, 1955)<!-- .element: class="fragment  fade-out" data-fragment-index="1" --> 
 
 --
 
