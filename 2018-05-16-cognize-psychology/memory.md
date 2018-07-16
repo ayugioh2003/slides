@@ -737,7 +737,16 @@ note:
 
 * 前額葉腦溝 數學計算
 
----
+--
+
+![](https://i.imgur.com/BdQttw3.png)
+
+<small>via [BrocasAreaSmall - Wernicke's area - Wikipedia](https://en.wikipedia.org/wiki/Wernicke%27s_area#/media/File:BrocasAreaSmall.png)</small>
+
+note:
+* [BrocasAreaSmall - Wernicke's area - Wikipedia](https://en.wikipedia.org/wiki/Wernicke%27s_area#/media/File:BrocasAreaSmall.png)
+
+--
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/15PYgKIADvM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
