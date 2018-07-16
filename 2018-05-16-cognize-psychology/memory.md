@@ -815,7 +815,8 @@ p222
 
 --
 
-謝謝大家
+<!-- 謝謝大家 -->
+<!-- .slide: data-background="https://i.imgur.com/PzYzSWQ.png"  -->
 
 --
 
