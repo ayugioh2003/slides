@@ -19,6 +19,8 @@ https://unsplash.com/photos/rmWtVQN5RzU
 ## 互動方式
 
 - 有沒有問題默契 <!-- .element: class="fragment  " -->
+    - 讚 <!-- .element: class="fragment  " -->
+    - 搖手指 <!-- .element: class="fragment  " -->
 - 講課、小測試、提問、討論<!-- .element: class="fragment  " -->
 
 
