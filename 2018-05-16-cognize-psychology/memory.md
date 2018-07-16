@@ -165,28 +165,27 @@ https://unsplash.com/photos/wn-KYaHwcis
 - 填空題<!-- .element: class="fragment  " -->
 - 過年叫親戚、大嬸三叔二姨媽<!-- .element: class="fragment  " -->
 
+--
+
+* 我瞭解記憶的測量方式了
+* 那我們要怎麼去理解記憶的特性呢？
 
 ---
 
 ## 一、記憶的儲存模型
-
-　　
-　　
+　
+　
 <!-- .slide: data-background="https://i.imgur.com/DXTPY8z.png"  -->
 
 note:
 * [Mannequin, model, robot and machine HD photo by Franck V. (@franckinjapan) on Unsplash](https://unsplash.com/photos/YKW0JjP7rlU)
 
+小故事:柏拉圖認為的記憶
 
---
+* 靈魂、真理、理型，都在理型國
+* 我們只是暫時遺忘真理
+* 透過學習把記憶找回來
 
-### 小故事:柏拉圖認為的記憶
-
-* 靈魂、真理、理型，都在理型國<!-- .element: class="fragment  " -->
-* 我們只是暫時遺忘真理<!-- .element: class="fragment  " -->
-* 透過學習把記憶找回來<!-- .element: class="fragment  " -->
-
-note:
 
 每一匹馬長得很像，是因為有馬的理型(原型)存在
 有很多不同的綠色，但有一個最綠的圓形存在
@@ -199,15 +198,11 @@ note:
 
 --
 
-現在認為的記憶儲存形式？
-
---
-
 ## 三段記憶儲存模型
 
-* (Atkinson & Shiffrin, 1971)<!-- .element: class="fragment  " --> 
+* Atkinson & Shiffrin, 1971<!-- .element: class="fragment  " --> 
 * 儲存庫：感覺、短期、長期<!-- .element: class="fragment  " --> 
-* 認為資訊(記憶)被放在不同的儲存庫中<!-- .element: class="fragment  " -->
+* 認為資訊(記憶)被放在不同的儲存庫中<!-- .element: class="fragment  " --> 
 
 --
 
@@ -228,7 +223,7 @@ note:
 
 ## 1-1 感覺儲存 
 
-* ex：一眨眼的時間，要記得剛剛的東西<!-- .element: class="fragment  " --> 
+* ex：一眨眼的時間，要記得剛剛的東西 
 
 note:
 * 以影像儲存庫 (iconic store) 為例
@@ -240,28 +235,44 @@ p205
 
 ### 小測試-2
 
-H B S T <br>
-A H M G <br>
-E L W C <!-- .element: class="fragment  " --> 
+* 很快地出現三行字，上中下
+* 很快地出現音高，高中低音<!-- .element: class="fragment  " --> 
+* 寫出對應音高順序的那行文字<!-- .element: class="fragment  " --> 
+* 同時盡量記得其他行文字<!-- .element: class="fragment  " --> 
+
+<!-- .slide: data-transition="none">-->
+
+
+--
+<!-- .slide: data-transition="none">-->
+<!-- .slide: data-background="https://i.imgur.com/p11NfsT.png"  -->
 
 note:
+H B S T <br>
+A H M G <br>
+E L W C 
 情境: 眼睛瞥過黑板準備要睡覺的時候，老師突然說某一行會考
 
 --
+<!-- .slide: data-transition="none">-->
 
-* 時間：過 0.3 秒，忘一半字母<!-- .element: class="fragment  " --> 
-* 容量：可能 12 個字母<!-- .element: class="fragment  " --> 
+--
+
+### 感覺儲存的極限
+
+* 時間：過 0.3 秒，忘一半字母 <small>(Sperling, 1960)</small>
+* 容量：可能 12 個字母<!-- .element: class="fragment  " --> <small>(Averbach & Coriell, 1961)</small>
 
 note:
-* 時間：過 0.3 秒，忘一半字母 (Sperling, 1960)<!-- .element: class="fragment  " --> 
-* 容量：可能 12 個字母 (Averbach & Coriell, 1961)<!-- .element: class="fragment  " --> 
+* 時間：過 0.3 秒，忘一半字母 (Sperling, 1960)
+* 容量：可能 12 個字母 (Averbach & Coriell, 1961)
 
 
 ---
 
 ## 1-2 短期儲存
 
-* ex：偷記電話號碼、LINE ID<!-- .element: class="fragment  " --> 
+* ex：偷記電話號碼、LINE ID
 
 --
 
@@ -278,12 +289,14 @@ note:
 
 --
 
-* 時間：數分鐘<!-- .element: class="fragment  " --> 
-* 容量：7 ± 2 個字<!-- .element: class="fragment  " --> 
+### 短期儲存的極限
+
+* 時間：數分鐘
+* 容量：7 ± 2 個字<!-- .element: class="fragment  " --> <small>(Miller, 1956)</small>
 
 note:
-* 時間：數分鐘<!-- .element: class="fragment  " --> 
-* 容量：7 ± 2 個字 (Miller, 1956)<!-- .element: class="fragment  " --> 
+* 時間：數分鐘
+* 容量：7 ± 2 個字 (Miller, 1956)
 
 
 
@@ -291,14 +304,14 @@ note:
 
 ## 1-3 長期儲存
 
-* ex：背到忘不了的元素週期表、小時候的事情<!-- .element: class="fragment  " --> 
+* ex：背到忘不了的元素週期表、小時候的事情 
 
 --
 
 長期儲存的兩個實驗
 
 * 二十五年前照片上同學的名字<small>(Bahrick, 1975)</small>
-* 電擊他實驗(Penfield, 1955)<!-- .element: class="fragment " data-fragment-index="2"--> 
+* 電擊他實驗<!-- .element: class="fragment " data-fragment-index="2"--> <small>(Penfield, 1955)</small>
 * ![](https://i.imgur.com/sy5vYso.png)<!-- .element: class="fragment  fade-out" data-fragment-index="1" --> 
 
 
@@ -308,18 +321,21 @@ note:
 
 --
 
-* 時間：至少 25 年以上<!-- .element: class="fragment  " --> 
-* 容量：還不清楚。可能無限<!-- .element: class="fragment  " --> 
+### 長期儲存的極限
+
+* 時間：至少 25 年以上 <small>(Bahrick, 1975)</small>
+* 容量：還不清楚。可能無限<!-- .element: class="fragment  " --><small>(Bahrick, 1984; Penifield, 1955)</small>
 
 note:
-* 時間：至少 25 年以上 (Bahrick, 1975)<!-- .element: class="fragment  " --> 
-* 容量：還不清楚。可能無限 (Bahrick, 1984; Penifield, 1955)<!-- .element: class="fragment  " --> 
+* 時間：至少 25 年以上 (Bahrick, 1975)
+* 容量：還不清楚。可能無限 (Bahrick, 1984; Penifield, 1955)
 
 --
 
 ### 小測試-4
 
 * 回想自己所能想到的最早的事情是什麼
+* 跟組員討論一下
 
 ---
 
@@ -345,10 +361,10 @@ note:
 
 ## 二、記憶的歷程
 
-- 訊息的收錄 (encoding)
-- 訊息的儲存與轉移 (storage)
-- 訊息的提取 (retrieval)
-- 遺忘
+1. 訊息的收錄 (encoding)
+2. 訊息的儲存與轉移 (storage)
+3. 訊息的提取 (retrieval)
+4. 遺忘
 
 <!-- .slide: data-background="https://i.imgur.com/1ek4Z2R.png"  -->
 
@@ -410,10 +426,11 @@ note:
 為什麼分散練習效果好?
 
 1. 在不同脈絡下學習，分歧脈絡有助於訊息加強固化
-2. 睡眠影響記憶: 睡眠時，速眼動時期的的量 <small>(Smith, 1996)</small>
+2. 睡眠影響記憶: 睡眠時，速眼動時期時間的量<!-- .element: class="fragment  " -->  <small>(Smith, 1996)</small>
 
 note:
 被不同的人教
+2. 睡眠影響記憶: 睡眠時，速眼動時期時間的量  <small>(Smith, 1996)</small>
 
 --
 
@@ -432,7 +449,7 @@ alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron
 為了讓複誦的訊息進入長期記憶
 
 * 單純複誦效果不大 (維持性複誦)
-* 我們需要有策略的複誦 (精緻性複誦)
+* 我們需要有策略的複誦 (精緻性複誦)<!-- .element: class="fragment  " -->  
 
 
 note:
@@ -449,7 +466,7 @@ note:
 
 * 分類
 * 購物清單：飲食類、生活類 ...<!-- .element: class="fragment " --> 
-* 英文單字：教室相關、電腦相關 ...<!-- .element: class="fragment " --> 
+* 英文單字：教室相關、旅遊相關 ...<!-- .element: class="fragment " --> 
 
 --
 
@@ -481,6 +498,11 @@ note:
 
 --
 
+* [TED Talk 每個人都能表演的記憶壯舉](https://www.ted.com/talks/joshua_foer_feats_of_memory_anyone_can_do?language=zh-TW#t-921980)
+* 古希臘羅馬時期演講家：西賽羅 記憶宮殿
+
+--
+
 3 字頭法
 
 * 把概念的字頭湊成一個句子
@@ -493,15 +515,47 @@ note:
 
 討論自己用過的記憶方式，並寫下來
 
+* 類別分組<!-- .element: class="fragment" data-fragment-index="2" -->
+* 互動心像、位置記憶法<!-- .element: class="fragment" data-fragment-index="2" --> 
+* 字頭法  <!-- .element: class="fragment" data-fragment-index="2" --> <small>(八國聯軍)</small>
+* 字釘系統<!-- .element: class="fragment" data-fragment-index="2" --> <small>(互動心像:1是棍子敲點心、2是鉤子吊鋼彈)</small>
+* 離合詩<!-- .element: class="fragment" data-fragment-index="2" --> <small>(every good boy does fine)</small>
+* 關鍵字系統<!-- .element: class="fragment" data-fragment-index="2" --> <small>(諧音+互動心象)</small>
+
+note:
+* [記憶鞏固 (Memory Consolidation) - 小小整理網站 Smallcollation](https://smallcollation.blogspot.com/2013/05/memory-consolidation.html#gsc.tab=0)
+* 認知課本 p254 比較圖表
+* 1 類別分組 
+  * 將一系列項目組織成不同的類別
+  * 超商買東西列清單、物理的單元分類
+* 2 互動心像
+  * 創造連結列表中個別文字的互動心像
+  * 迴紋針 -> 吉他 -> 魔王、康康勾著雍容華貴的人的手去找潛水夫
+* 3 字釘系統
+  * 將每個新字與先前記得的列表中的一個字產生連結，並形成一個兩個字互動的心像
+  * 1 棍子打康康 2 吊鉤上掛著雍容華貴的人 3 耳朵裡住著潛水夫
+* 4 位置記憶法
+  * 在心裡想像走過一個熟悉且有明顯特殊路標的地方。接著，將這些不同的路標語特定記憶項目產生連結
+  * 開頭的記憶，用你家的場景
+* 字頭法
+  * 想出一個詞或短句，它的每一個字母代表著另一個詞或概念。例如，USA、IQ、laser、HTC、I AM PACK
+  * 日語 AK47太難換 慢呀來；腦神經 嗅室動滑三歪顏 聽舌迷腹舌
+* 離合詩
+  * 形成一個句子而不是單獨一個字來幫助你記住新字
+  * 音樂譜 E G B D F
+  * Every Good Boy Does Fine
+* 關鍵字系統
+  * 形成一個互動的心像來連結外語字彙及熟悉字會的發音和意義
+
+
 --
 
 
 
 衛教時間 
 
-* [建議不用特別花大錢去上記憶課](https://www.ptt.cc/bbs/study/M.1250860571.A.887.html)
 * [不要太相信右腦學習法](https://pansci.asia/archives/89961)
-
+* [建議不用特別花大錢去上記憶課](https://www.ptt.cc/bbs/study/M.1250860571.A.887.html)
 
 ---
 
@@ -517,7 +571,7 @@ note:
 
 --
 
-小測試-7
+## 小測試-7
 
 * 等一下會陸續呈現很多詞
 * 在腦袋記住，呈現完後寫下來
@@ -585,12 +639,29 @@ note:
 
 --
 
+小測試-7
+
 * 沒惹
 * 開始回想吧
 
+--
+
+* 桌子、雲、書、樹、襯衫
+* 貓、光、長凳、粉筆、花
+* 手錶、球棒、毛毯、肥皂、枕頭
+
+--
+
+調查
+
+* 關注點不是個人的答對題數
+* 桌子<!-- .element: class="fragment"  -->
+* 長凳<!-- .element: class="fragment"  -->
+* 枕頭<!-- .element: class="fragment"  -->
+
 ---
 
-### 序列位置效應
+### 從序列位置效應談遺忘
 
 --
 
@@ -608,8 +679,8 @@ note:
 
 序列最開頭和結尾的回憶有優勢，被稱為
 
-* 初始效應
-* 新進效應
+* 初始效應 (頭)<!-- .element: class="fragment"  -->
+* 新進效應 (尾)<!-- .element: class="fragment"  -->
 
 --
 
@@ -626,9 +697,8 @@ note:
 
 序列位置效應可能原因
 
-* 後向干擾與前向干擾
-* 短期記憶與長期記憶
-
+* 後向干擾與前向干擾 (干擾)<!-- .element: class="fragment"  -->
+* 短期記憶與長期記憶 (衰退)<!-- .element: class="fragment"  -->
 
 ---
 
@@ -654,10 +724,11 @@ https://unsplash.com/photos/rmWtVQN5RzU
 * <!-- .element: class="fragment  " -->[ZygoteBody](https://www.zygotebody.com/) 
 --
 
-* 大腦皮層 廣泛的記憶
-* 海馬迴 轉換長期記憶
-* 杏仁核 情緒
-* 布洛卡區 語言表達
+* 大腦皮層：廣泛的記憶儲存
+* 海馬迴(hippocampus)：轉換長期記憶
+* 杏仁核(amygdala)：情緒儲存
+* 威尼凱區(Wernicke's area)：語言理解
+* 布洛卡區(Broca's area)：語言表達
 
 note:
   * [巴貝茲迴路 (Papez Circuit) - 小小整理網站 Smallcollation](https://smallcollation.blogspot.com/2013/03/head-and-neck-papez-circuit.html#gsc.tab=0)
@@ -671,16 +742,17 @@ note:
 
 總結-1 今天認識到的
 
-* 記憶的儲存模型假說<!-- .element: class="fragment" data-fragment-index="2" -->
-* 記憶的處理機制<!-- .element: class="fragment" data-fragment-index="2" -->
+* 記憶的三段儲存模型假說<!-- .element: class="fragment" data-fragment-index="2" -->
+* 記憶的歷程：收錄、轉移、遺忘<!-- .element: class="fragment" data-fragment-index="2" -->
 * 與記憶相關的生理機制與腦區<!-- .element: class="fragment" data-fragment-index="2" -->
 
 --
 
 總結-2 學習小撇步
 
-* 複誦：分散練習、睡眠充足幫助記憶固化
-* 精緻複誦：以有意義的方式複誦新訊息
+* 複誦：分散練習、睡眠充足幫助記憶固化<!-- .element: class="fragment" -->
+* 精緻複誦：以有意義的方式複誦新訊息<!-- .element: class="fragment" -->
+* 記憶術：分類、心像、位置記憶、字頭法 ...<!-- .element: class="fragment" -->
 
 
 --
