@@ -726,7 +726,7 @@ https://unsplash.com/photos/rmWtVQN5RzU
 
 * 大腦皮層：廣泛的記憶儲存
 * 海馬迴(hippocampus)：轉換長期記憶
-* 杏仁核(amygdala)：情緒儲存
+* 杏仁核(amygdala)：情緒相關
 * 威尼凱區(Wernicke's area)：語言理解
 * 布洛卡區(Broca's area)：語言表達
 
@@ -737,6 +737,11 @@ note:
 
 * 前額葉腦溝 數學計算
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15PYgKIADvM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<small>02:47</small>
 
 ---
 
@@ -799,6 +804,9 @@ p222
 - 我剛開的粉專：https://www.facebook.com/wheatpsy
 - 問卷回饋：https://docs.google.com/forms/d/e/1FAIpQLSdcSevI4oImbl7_Z8Nbrb8U-Yi64GFlWGebeOWTiKrlGMTT4Q/viewform
 
+--
+
+謝謝大家
 
 --
 
