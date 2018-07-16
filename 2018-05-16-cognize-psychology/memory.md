@@ -228,14 +228,13 @@ note:
 
 ## 1-1 感覺儲存 
 
-* ex：一眨眼的時間，要記得剛剛的東西
-* 時間：過 0.3 秒，忘一半字母 (Sperling, 1960)<!-- .element: class="fragment  fade-out" data-fragment-index="1" --> 
-* 容量：可能 12 個字母 (Averbach & Coriell, 1961)<!-- .element: class="fragment  fade-out" data-fragment-index="1" --> 
+* ex：一眨眼的時間，要記得剛剛的東西<!-- .element: class="fragment  " --> 
 
 note:
 * 以影像儲存庫 (iconic store) 為例
 * 只呈現 50 毫秒
 p205
+
 
 --
 
@@ -248,15 +247,25 @@ E L W C <!-- .element: class="fragment  " -->
 note:
 情境: 眼睛瞥過黑板準備要睡覺的時候，老師突然說某一行會考
 
+--
+
+* 時間：過 0.3 秒，忘一半字母<!-- .element: class="fragment  " --> 
+* 容量：可能 12 個字母<!-- .element: class="fragment  " --> 
+
+note:
+* 時間：過 0.3 秒，忘一半字母 (Sperling, 1960)<!-- .element: class="fragment  " --> 
+* 容量：可能 12 個字母 (Averbach & Coriell, 1961)<!-- .element: class="fragment  " --> 
+
+
 ---
 
 ## 1-2 短期儲存
 
-* ex：偷記電話號碼、LINE ID
-* 時間：數分鐘
-* 容量：7 ± 2 個字 (Miller, 1956)<!-- .element: class="fragment  fade-out" data-fragment-index="1" --> 
+* ex：偷記電話號碼、LINE ID<!-- .element: class="fragment  " --> 
 
 --
+
+
 
 ### 小測試-3
 
@@ -267,13 +276,22 @@ note:
 note:
 情境，偷記一個喜歡的人的 LINE ID
 
+--
+
+* 時間：數分鐘<!-- .element: class="fragment  " --> 
+* 容量：7 ± 2 個字<!-- .element: class="fragment  " --> 
+
+note:
+* 時間：數分鐘<!-- .element: class="fragment  " --> 
+* 容量：7 ± 2 個字 (Miller, 1956)<!-- .element: class="fragment  " --> 
+
+
+
 ---
 
 ## 1-3 長期儲存
 
-* ex：背到忘不了的元素週期表、小時候的事情
-* 時間：至少 25 年以上 (Bahrick, 1975)<!-- .element: class="fragment  fade-out" data-fragment-index="1" --> 
-* 容量：還不清楚。可能無限 (Bahrick, 1984; Penifield, 1955)<!-- .element: class="fragment  fade-out" data-fragment-index="1" --> 
+* ex：背到忘不了的元素週期表、小時候的事情<!-- .element: class="fragment  " --> 
 
 --
 
@@ -287,6 +305,15 @@ note:
 note:
 * [聖結石Saint【根本就不會再見面】Official MV 4K - YouTube](https://www.youtube.com/watch?v=LAPXqtxxstE)
 癲癇，刺激大腦皮質不同區域，會想起小時候的事情
+
+--
+
+* 時間：至少 25 年以上<!-- .element: class="fragment  " --> 
+* 容量：還不清楚。可能無限<!-- .element: class="fragment  " --> 
+
+note:
+* 時間：至少 25 年以上 (Bahrick, 1975)<!-- .element: class="fragment  " --> 
+* 容量：還不清楚。可能無限 (Bahrick, 1984; Penifield, 1955)<!-- .element: class="fragment  " --> 
 
 --
 
