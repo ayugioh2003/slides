@@ -63,10 +63,10 @@ note:
 
 ## 記憶在學科中的位置
 
+心理學>認知心理學>記憶
 * <b>學科</b>：物理學、生物學、<b>心理學</b> ...
 * <b>領域</b>：發展心理學、社會心理學、<b>認知心理學</b> ...
 * <b>次領域</b>：知覺、決策、<b>記憶</b> ...
-
 
 --
 
@@ -74,9 +74,28 @@ note:
 
 * 物理學
 * 生物學
-* 心理學: 關注人類心智歷程、行為的學科
+* 心理學: 關注人類內在心智歷程、外在行為的學科
 
 --
+
+* 心理學>認知心理學>記憶
+
+
+note:
+
+心理學>認知心理學>記憶
+
+* 心理學(學科)：關注人類心智歷程、行為的學科
+* 認知心理學(領域): 認為心智歷程是資訊處理過程
+* 記憶: 認為記憶是資訊處理過程的重要成份
+
+
+從生活到學科
+
+* 物理學
+* 生物學
+* 心理學: 關注人類心智歷程、行為的學科
+
 
 關心不同心理學議題的領域
 
@@ -84,7 +103,6 @@ note:
 * 社會心理學
 * 認知心理學: 認為心智歷程是資訊處理過程
 
-note:
 認知心理學底下的次領域
 
 * 知覺
@@ -108,15 +126,15 @@ https://unsplash.com/photos/wn-KYaHwcis
 --
 
 什麼是資訊處理過程
-- 數學：x=3 → f(x)=x+3 → f(3)=6 <!-- .element: class="fragment  " -->
-- 手機：風景→相機拍照處理→螢幕上的照片 <!-- .element: class="fragment  " -->
+- 代公式：x=3 → f(x)=x+3 → f(3)=6 <!-- .element: class="fragment  " -->
+- 拍照片：風景→相機拍照處理→螢幕上的照片 <!-- .element: class="fragment  " -->
 <!-- .slide: data-background="https://i.imgur.com/KqnwzC0.jpg"  -->
 
 --
 
 記憶和認知的關係
-- 看到資訊→大腦處理資訊→用語言表達<!-- .element: class="fragment  " -->
-- 記憶能力被認為是認知能力的一種<!-- .element: class="fragment  " -->
+- 認知過程: 看到資訊→大腦處理資訊→語言表達<!-- .element: class="fragment  " -->
+- 大腦裡的資訊，就是記憶<!-- .element: class="fragment  " -->
 
 <!-- .slide: data-background="https://i.imgur.com/KqnwzC0.jpg"  -->
 
@@ -156,6 +174,7 @@ https://unsplash.com/photos/wn-KYaHwcis
 --
 
 ### 測量、喚起記憶的方式
+- 可用紙筆、口頭、動作 ... <!-- .element: class="fragment  " -->
 - 沒線索：自由回憶 (recall)<!-- .element: class="fragment  " -->
 - 有線索：再認 (recognize)<!-- .element: class="fragment  " -->
 
@@ -202,13 +221,13 @@ note:
 
 ## 三段記憶儲存模型
 
+![](https://i.imgur.com/DW2qFN3.png)
+
+
 * Atkinson & Shiffrin, 1971<!-- .element: class="fragment  " --> 
 * 儲存庫：感覺、短期、長期<!-- .element: class="fragment  " --> 
 * 認為資訊(記憶)被放在不同的儲存庫中<!-- .element: class="fragment  " --> 
 
---
-
-![](https://i.imgur.com/DW2qFN3.png)
 
 note:
 * [記憶系統](http://www.hksports.net/hkpe/motor_learning/memory_system.htm)
@@ -221,11 +240,19 @@ note:
 * 時間：我們可以記多久<!-- .element: class="fragment  " -->
 * 容量：我們可以記得多少東西<!-- .element: class="fragment  " -->
 
+--
+
+| 儲存類型         | 時間                  | 容量                              |
+| -------- | --------------------- | --------------------------------- |
+| 感覺儲存 | 短 (不到一秒) | 少 (可至12個項目)       |
+| 短期儲存 | 短 (數分鐘)   | 少 (約7±2個項目)          |
+| 長期儲存 | 長 (好幾年)   | 上限未知 (有人認為無限) |
+
 ---
 
 ## 1-1 感覺儲存 
 
-* ex：一眨眼的時間，要記得剛剛的東西 
+* 情境：一眨眼的時間，要記得剛剛的東西 
 
 note:
 * 以影像儲存庫 (iconic store) 為例
@@ -237,16 +264,20 @@ p205
 
 ### 小測試-2
 
+* 流程：三行字->聲音->作答
+
+note:
 * 很快地出現三行字，有上中下，然後消失
-* 很快地出現音高，可能是高中低音，然後消失<!-- .element: class="fragment  " -->
-* 流程：三行字->聲音->作答<!-- .element: class="fragment  " -->  
-* 寫出對應音高順序的那行文字<!-- .element: class="fragment  " --> 
-* 同時盡量記得其他行文字<!-- .element: class="fragment  " --> 
+* 很快地出現音高，可能是高中低音，然後消失
+* 流程：三行字->聲音->作答
+* 寫出對應音高順序的那行文字
+* 同時盡量記得其他行文字
 
 <!-- .slide: data-transition="none">-->
 
 
 --
+<!-- 圖片 -->
 <!-- .slide: data-transition="none">-->
 <!-- .slide: data-background="https://i.imgur.com/AeUWavC.png"  -->
 
@@ -258,6 +289,12 @@ E L W C
 
 --
 <!-- .slide: data-transition="none">-->
+
+(sound)
+
+--
+
+(作答)
 
 --
 
@@ -275,14 +312,13 @@ note:
 
 ## 1-2 短期儲存
 
-* ex：偷記電話號碼、LINE ID
+* 情境：偷記電話號碼、LINE ID
 
 --
 
-
-
 ### 小測試-3
 
+* 流程：出現一長串數字(幾秒後消失)->作答
 * 101001000100001000100<!-- .element: class="fragment  " --> 
 * 有意義的組塊(Miller, 1956)<!-- .element: class="fragment  " --> 
 * 10，100，1000，10000，1000，100<!-- .element: class="fragment  " --> 
@@ -307,7 +343,7 @@ note:
 
 ## 1-3 長期儲存
 
-* ex：背到忘不了的元素週期表、小時候的事情 
+* 情境：背到滾瓜爛熟的東西、小時候的事情 
 
 --
 
@@ -322,14 +358,13 @@ note:
 * [聖結石Saint【根本就不會再見面】Official MV 4K - YouTube](https://www.youtube.com/watch?v=LAPXqtxxstE)
 癲癇，刺激大腦皮質不同區域，會想起小時候的事情
 
---
+note:
 
 ### 長期儲存的極限
 
 * 時間：至少 25 年以上 <small>(Bahrick, 1975)</small>
-* 容量：還不清楚。可能無限<!-- .element: class="fragment  " --><small>(Bahrick, 1984; Penifield, 1955)</small>
+* 容量：還不清楚。可能無限<small>(Bahrick, 1984; Penifield, 1955)</small>
 
-note:
 * 時間：至少 25 年以上 (Bahrick, 1975)
 * 容量：還不清楚。可能無限 (Bahrick, 1984; Penifield, 1955)
 
@@ -337,7 +372,8 @@ note:
 
 ### 小測試-4
 
-* 回想自己所能想到的最早的事情是什麼
+* 回想自己所能想到的最早的事情
+* 或是已經背到滾瓜爛熟的東西
 * 跟組員討論一下
 
 ---
@@ -419,18 +455,21 @@ note:
 
 ### 2-2-1 複誦
 
-* 練習效果：重複複誦某個項目<!-- .element: class="fragment " --> 
-* 最佳的複誦新訊息的時間安排為何？<!-- .element: class="fragment " --> 
-* 分散練習 vs 密集練習 (Ebbinghaus, 1885)<!-- .element: class="fragment " --> 
+* 如何安排複誦(記憶)的時間？<!-- .element: class="fragment " --> 
+* 分散練習 vs 密集練習<!-- .element: class="fragment " --> <small>(Ebbinghaus, 1885)</small> 
 * 白話：定時複習 vs 臨時抱佛腳<!-- .element: class="fragment " --> 
 * 結果：分散練習效果好<!-- .element: class="fragment " --> 
+
+note:
+* 練習效果：重複複誦某個項目
 
 --
 
 為什麼分散練習效果好?
 
-1. 在不同脈絡下學習，分歧脈絡有助於訊息加強固化
-2. 睡眠影響記憶: 睡眠時，速眼動時期時間的量<!-- .element: class="fragment  " -->  <small>(Smith, 1996)</small>
+1. 在不同脈絡下學習，分歧脈絡有助於訊息加強固化<!-- .element: class="fragment  " -->
+2. 睡眠影響記憶: 在速眼動時期，負責固化記憶的海馬迴會活化<!-- .element: class="fragment  " -->  <small>(Smith, 1996)</small>
+    * →睡得越飽，記憶越容易被固化<!-- .element: class="fragment " --> 
 
 note:
 被不同的人教
@@ -438,7 +477,7 @@ note:
 
 --
 
-速眼動時期是什麼?
+速眼動時期(REM)是什麼?
 
 ![](http://i.imgur.com/ytNbVb1.png)
 
@@ -450,10 +489,11 @@ alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron
 
 --
 
-為了讓複誦的訊息進入長期記憶
+除了時間的安排外
 
-* 單純複誦效果不大 (維持性複誦)
-* 我們需要有策略的複誦 (精緻性複誦)<!-- .element: class="fragment  " -->  
+* 為了讓複誦的訊息更容易進入長期記憶<!-- .element: class="fragment  " -->  
+* 不要只是單純複誦 (維持性複誦)<!-- .element: class="fragment  " -->  
+* 還需要讓資訊被組織 (精緻性複誦)<!-- .element: class="fragment  " -->  
 
 
 note:
@@ -469,7 +509,7 @@ note:
 ### 2-2-2 訊息組織: 記憶術
 
 * 分類
-* 購物清單：飲食類、生活類 ...<!-- .element: class="fragment " --> 
+* 購物清單：生活類、文具類 ...<!-- .element: class="fragment " --> 
 * 英文單字：教室相關、旅遊相關 ...<!-- .element: class="fragment " --> 
 
 --
@@ -503,6 +543,8 @@ note:
 --
 
 * [TED Talk 每個人都能表演的記憶壯舉](https://www.ted.com/talks/joshua_foer_feats_of_memory_anyone_can_do?language=zh-TW#t-921980)
+
+note:
 * 古希臘羅馬時期演講家：西賽羅 記憶宮殿
 
 --
@@ -560,13 +602,13 @@ Bonus 衛教時間
 
 * [不要太相信右腦學習法](https://pansci.asia/archives/89961)
 * [建議不用特別花大錢去上記憶課](https://www.ptt.cc/bbs/study/M.1250860571.A.887.html)
+    * <!-- .element: class="fragment"  -->[TED Talk 每個人都能表演的記憶壯舉](https://www.ted.com/talks/joshua_foer_feats_of_memory_anyone_can_do?language=zh-TW#t-921980)
 
 ---
 
 ## 2-3 遺忘
 
-- 衰退<!-- .element: class="fragment"  -->
-- 干擾<!-- .element: class="fragment"  -->
+遺忘的原因：衰退、干擾
 
 note:
 序列位置效應
@@ -579,7 +621,7 @@ note:
 
 * 等一下會陸續呈現很多詞
 * 在腦袋記住，呈現完後寫下來
-* 很重要要唸三遍
+* 很重要所以唸三遍
 
 --
 
@@ -638,21 +680,16 @@ note:
 
 --
 
-* 桌子、雲、書、樹、襯衫
-* 貓、光、長凳、粉筆、花
+
+
+* 關注點不是個人的答對題數
+* 是不同位置的項目的正確率
+* 桌子、雲、書、樹、襯衫<!-- .element: class="fragment" data-fragment-index="1" -->
+* 貓、光、長凳、粉筆、花<!-- .element: class="fragment" data-fragment-index="1" -->
 
 note:
 
 * 手錶、球棒、毛毯、肥皂、枕頭
-
---
-
-調查
-
-* 關注點不是個人的答對題數
-* 桌子<!-- .element: class="fragment"  -->
-* 襯衫<!-- .element: class="fragment"  -->
-* 花<!-- .element: class="fragment"  -->
 
 ---
 
@@ -672,25 +709,31 @@ note:
 
 --
 
-序列最開頭和結尾的回憶有優勢，被稱為
-
-* 初始效應 (頭)<!-- .element: class="fragment"  -->
-* 新進效應 (尾)<!-- .element: class="fragment"  -->
-
---
 
 
 ![](https://i.imgur.com/wLnGv8V.png)
 
-<small>via [Atkinson and Shiffrin | Multi Store Model of Memory | Simply Psychology](https://www.simplypsychology.org/multi-store.html)</small>
+開頭和結尾的記憶優勢，被稱為
+
+
+* 初始效應 (頭)<!-- .element: class="fragment"  -->
+* 新進效應 (尾)<!-- .element: class="fragment"  -->
 
 note:
+
+<small>via [Atkinson and Shiffrin | Multi Store Model of Memory | Simply Psychology](https://www.simplypsychology.org/multi-store.html)</small>
+
+
 * [Atkinson and Shiffrin | Multi Store Model of Memory | Simply Psychology](https://www.simplypsychology.org/multi-store.html)
+
 
 
 --
 
 序列位置效應可能原因
+
+![](https://i.imgur.com/wLnGv8V.png)
+
 
 * 後向干擾與前向干擾 (干擾)<!-- .element: class="fragment"  -->
 * 短期記憶與長期記憶 (衰退)<!-- .element: class="fragment"  -->
@@ -751,7 +794,7 @@ note:
 
 總結-1 今天認識到的
 
-* 記憶的三段儲存模型假說<!-- .element: class="fragment" data-fragment-index="2" -->
+* 記憶的三段儲存模型假說：感覺、短期、長期<!-- .element: class="fragment" data-fragment-index="2" -->
 * 記憶的歷程：收錄、轉移、遺忘<!-- .element: class="fragment" data-fragment-index="2" -->
 * 與記憶相關的生理機制與腦區<!-- .element: class="fragment" data-fragment-index="2" -->
 
@@ -806,7 +849,7 @@ p222
 - 我的臉書：https://www.facebook.com/profile.php?id=100000332370903 
 - 投影片與講義連結：https://git.io/fNmR2
 - 我剛開的粉專：https://www.facebook.com/wheatpsy
-- 問卷回饋：https://docs.google.com/forms/d/e/1FAIpQLSdcSevI4oImbl7_Z8Nbrb8U-Yi64GFlWGebeOWTiKrlGMTT4Q/viewform
+- 問卷回饋：https://goo.gl/qJesvj
 
 --
 

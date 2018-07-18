@@ -21,4 +21,4 @@
 - 我的臉書：https://www.facebook.com/profile.php?id=100000332370903 
 - 投影片與講義連結：https://git.io/fNmR2
 - 我剛開的粉專：https://www.facebook.com/wheatpsy
-- 問卷回饋：https://docs.google.com/forms/d/e/1FAIpQLSdcSevI4oImbl7_Z8Nbrb8U-Yi64GFlWGebeOWTiKrlGMTT4Q/viewform
+- 問卷回饋：https://goo.gl/qJesvj
