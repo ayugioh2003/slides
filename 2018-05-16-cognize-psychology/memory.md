@@ -78,8 +78,9 @@ note:
 
 --
 
-* 心理學>認知心理學>記憶
-
+* 記憶在學科中的位置
+* 心理學>認知心理學>記憶<!-- .element: class="fragment  " -->
+* 認知心理學是什麼<!-- .element: class="fragment  " -->
 
 note:
 
