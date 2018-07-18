@@ -65,10 +65,11 @@ note:
 
 心理學>認知心理學>記憶
 * <b>學科</b>：物理學、生物學、<b>心理學</b> ...
+    * <!-- .element: class="fragment  " -->**心理學: 關注人類內在心智歷程、外在行為**
 * <b>領域</b>：發展心理學、社會心理學、<b>認知心理學</b> ...
 * <b>次領域</b>：知覺、決策、<b>記憶</b> ...
 
---
+note:
 
 從生活到學科
 
@@ -185,7 +186,11 @@ https://unsplash.com/photos/wn-KYaHwcis
 
 - 選擇題<!-- .element: class="fragment  " -->
 - 填空題<!-- .element: class="fragment  " -->
-- 過年叫親戚、大嬸三叔二姨媽<!-- .element: class="fragment  " -->
+
+note:
+- 台北市長是柯文哲、柯武哲、還是柯十哲
+- 講義上的填空
+- 過年叫親戚、大嬸三叔二姨媽
 
 --
 
@@ -359,7 +364,7 @@ note:
 * [聖結石Saint【根本就不會再見面】Official MV 4K - YouTube](https://www.youtube.com/watch?v=LAPXqtxxstE)
 癲癇，刺激大腦皮質不同區域，會想起小時候的事情
 
-note:
+
 
 ### 長期儲存的極限
 
